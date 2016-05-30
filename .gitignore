@@ -1,0 +1,7 @@
+packages
+Lib/bin
+Lib/obj
+WebApp/bin
+WebApp/obj
+WebApp/App_Data
+*.suo
